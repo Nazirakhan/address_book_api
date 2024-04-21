@@ -2,6 +2,8 @@
   link: to download python "https://www.python.org/downloads/release/python-3116/"
   install according to OS windows/MacOS/linux
 
+clone the repository or you can download the repository
+
   As i have provided all those files in this repository one doesn't need to install any of this just install the python itself.
 
  open powershell inside the project folder.
